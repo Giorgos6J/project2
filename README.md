@@ -63,6 +63,6 @@ java-math-console-app/
 ---
 
 ## 🧑‍💻 Author
-Developed by [Your Name] for learning and demonstration purposes.
+Developed by Dionisopoulos Georgios for learning and demonstration purposes.
 
 ---
