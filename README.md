@@ -37,7 +37,8 @@ java-math-console-app/
 ├── module-info.java
 ├── .classpath
 ├── .project
-🧑‍💻 Author
-Developed by [Your Name] for learning and demonstration purposes.
+
+
+Developed by georgios dionisopoulos for learning and demonstration purposes.
 
 
